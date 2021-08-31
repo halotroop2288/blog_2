@@ -77,11 +77,11 @@ lines: # You can add HTML Tags in the Text
   - text: "Euclidean!"
   - text: "Indie!"
   - text: "Fuck the police!"
-  - text: <a href="https://steamcommunity.com/id/halotroop2288">On Steam!</a>
-  - text: <a href="https://discord.com/channels/@me/231214143808602112">On Discord!</a>
-  - text: <a href="https://twitter.com/ha1otroop2288">On Twitter!</a>
-  - text: <a href="https://github.com/halotroop2288">On Github!</a>
-  - text: <a href="https://www.youtube.com/channel/UCMR7J9btPbUCeibSFT0spoA">On YouTube!</a>
+  - text: '<a href="https://steamcommunity.com/id/halotroop2288">On Steam!</a>'
+  - text: '<a href="https://discord.com/channels/@me/231214143808602112">On Discord!</a>'
+  - text: '<a href="https://twitter.com/ha1otroop2288">On Twitter!</a>'
+  - text: '<a href="https://github.com/halotroop2288">On Github!</a>'
+  - text: '<a href="https://www.youtube.com/channel/UCMR7J9btPbUCeibSFT0spoA">On YouTube!</a>'
   - text: "Play him off, Octocat!"
   - text: "December 7th, 2000"
   - text: "Random splash!"
