@@ -49,8 +49,8 @@ background-img: "../img/intro-bg.jpg"
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
+loop: False
+loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
@@ -99,11 +99,10 @@ lines: # You can add HTML Tags in the Text
   - text: "Welcome!"
   - text: "Bienvenidos!"
   - text: "Enchanté!"
+  - text: "Very concerning!"
+  - text: "assert fabric > forge"
 
 me-img: "/img/jetpacktocat.png"
-
-# To use github profile pic uncomment the following line and replace 'user_name'
-# with your github user name.
 
 me-img: "https://github.com/halotroop2288.png?size=500"
 
@@ -158,7 +157,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "https://fabricmc.net/assets/logo.png"
     date: "January 2020"
     description: "Started making Minecraft mods with Fabric"
 
