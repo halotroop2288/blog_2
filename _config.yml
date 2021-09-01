@@ -4,13 +4,6 @@
 
 url: "https://halotroop.com"
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
 baseurl: /blog_2
 
 # Google tracking id
@@ -96,9 +89,13 @@ lines: # You can add HTML Tags in the Text
   - text: "Bienvenidos!"
   - text: "Enchanté!"
   - text: "Very concerning!"
-  - text: "assert fabric > forge"
+  - text: "assert fabric > forge;"
+  - text: "Viva la revolucion!"
+  - text: "Try Viva Piñata!"
+  - text: "Cat! I'm a kitty cat!"
+  - text: "We're no strangers to love!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 me-img: "https://github.com/halotroop2288.png?size=500"
 
@@ -179,7 +176,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Caroline is a catgirl with too much time on her hands. She loves virtual sandboxes, and programming."
+author_blurb: "Caroline is a cat-girl with too much time on her hands. She loves virtual sandboxes, and programming."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -191,8 +188,6 @@ social:
     url: "https://twitter.com/ha1otroop2288"
   - title: "github"
     url: "https://github.com/halotroop2288"
-  - title: "discord"
-    url: "https://discord.com/channels/@me/231214143808602112"
   - title: "rss"
     url: "/feed.xml"
 
@@ -224,7 +219,7 @@ pages_list:
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+exclude: ["LICENSE", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
