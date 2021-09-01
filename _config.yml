@@ -67,7 +67,6 @@ lines: # You can add HTML Tags in the Text
   - text: "Indie!"
   - text: "Fuck the police!"
   - text: "Play him off, Octocat!"
-  - text: "December 7th, 2000"
   - text: "Random splash!"
   - text: "Fully up-to-date!"
   - text: "Try Minecraft!"
@@ -94,8 +93,6 @@ lines: # You can add HTML Tags in the Text
   - text: "Try Viva Piñata!"
   - text: "Cat! I'm a kitty cat!"
   - text: "We're no strangers to love!"
-
-me-img: "/img/author.png"
 
 me-img: "https://github.com/halotroop2288.png?size=500"
 
@@ -151,7 +148,7 @@ syntax-highlight: True
 
 events:
   - image: "https://fabricmc.net/assets/logo.png"
-    date: "January 2020"
+    date: "January 1st, 2020"
     description: "Started making Minecraft mods with Fabric"
 
 # First image of the Timeline
@@ -188,8 +185,6 @@ social:
     url: "https://twitter.com/ha1otroop2288"
   - title: "github"
     url: "https://github.com/halotroop2288"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -219,7 +214,7 @@ pages_list:
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+exclude: ["CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
