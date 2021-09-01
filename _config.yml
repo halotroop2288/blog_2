@@ -208,7 +208,6 @@ keybase-in-footer: False
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
