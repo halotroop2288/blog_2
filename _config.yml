@@ -17,10 +17,6 @@ baseurl: /blog_2
 
 google-tracking-id: ""
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
 force-https: True
 
 #############
@@ -31,7 +27,7 @@ lang: "en"
 author: "Caroline Joy Bell"
 title: "Caroline's Blog 2.0"
 description: "Blog of a sandbox lover."
-keywords: "blog, tech, minecraft, modder, modding, sandbox"
+keywords: "blog, tech, minecraft, modder, modding, sandbox, mods, downloads"
 favicon: "/img/favicon.ico"
 
 ################

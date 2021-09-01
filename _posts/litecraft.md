@@ -2,6 +2,7 @@
     title: "LiteCraft"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 LiteCraft is an in-progress, but currently on-hold project to create a Minecraft-style

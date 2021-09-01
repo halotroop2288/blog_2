@@ -2,6 +2,7 @@
     title: "More Creeps and Weirdos Refabricated"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 More Creeps and Weirdos Refabricated is an in-progress recreation of the classic [Minecraft](https://www.minecraft.net)

@@ -2,6 +2,7 @@
     title: "Basuoland"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 Basuoland is an idea for a game I had a long time ago.

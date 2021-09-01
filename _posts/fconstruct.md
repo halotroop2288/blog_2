@@ -2,6 +2,7 @@
     title: "Fabricators' Construct"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 Fabricators' Construct is an attempt at rewriting the mod Tinkers Construct for

@@ -2,6 +2,7 @@
     title: "Art Gallery"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 This is a gallery of images of my [fursona, Caroline](../fursona). Enjoy!

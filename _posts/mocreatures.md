@@ -2,6 +2,7 @@
     title: "Mo' Creatures"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 [Mo' Creatures](https://www.mocreatures.org/) is a mod by Dr. Zhark,

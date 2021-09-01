@@ -2,6 +2,7 @@
     title: "Caroline (Fursona)"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 Caroline is my fursona.

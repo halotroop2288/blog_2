@@ -2,6 +2,7 @@
     title: "Ex-Features Mod"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 Ex-Features is (was) an attempt at re-adding all the removed features,

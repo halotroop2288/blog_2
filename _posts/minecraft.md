@@ -2,6 +2,7 @@
     title: "Minecraft Servers"
     date: 2020-07-18
     draft: false
+    comments: true
 ---
 
 Sometimes I host Minecraft servers from my computer.
