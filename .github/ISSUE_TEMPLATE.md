@@ -1,20 +1,11 @@
-## Questions
+## Page
 
-Please ask your questions at the [gitter channel](https://gitter.im/PanosSakkos/personal-jekyll-theme).
-That way the issues here are kept clean and you will get an answer to your question quicker :smile:
+<!---- Please insert the related page URL here. Use the root address if it's site-wide. ---->
 
-## Expected Behavior
+## Issue
 
-
-## Actual Behavior
-
-
-## Steps to Reproduce the Issue
-
-  1.
-  2.
-  3.
+<!---- What is the issue on the page? Please describe it here. ---->
 
 ## Specifications
 
-(The version of the project, browser etc.)
+<!---- Please include your device type and browser name here. ---->

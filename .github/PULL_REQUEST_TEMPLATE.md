@@ -1,7 +1,1 @@
-Issue Fixed #
-
-## Proposed Changes
-
-  -
-  -
-  -
+<!--- THIS PERSONAL PROJECT IS NOT ACCEPTING PULL REQUESTS --->
