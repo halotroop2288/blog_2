@@ -30,6 +30,6 @@ A relevant excerpt from the license terms of the original mod:
  Public distribution of modified versions of this MOD require advance written permission of the OWNER and may be subject to certain terms.
 ```
 
-![Early Mummy Hitbox](./EarlyMummyHitbox.png)
-![Early Mummy demonstration](./EarlyMummy.png)
-![Invisible Man](./InvisibleMan.png)
+![Early Mummy Hitbox](../img/previews/EarlyMummyHitbox.png)
+![Early Mummy demonstration](../img/previews/EarlyMummy.png)
+![Invisible Man](../img/previews/InvisibleMan.png)

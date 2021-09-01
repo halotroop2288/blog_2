@@ -17,4 +17,4 @@ You can view the source code **[HERE](https://github.com/halotroop/fabricators-c
 Please check out the original mod,
 [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)!)
 
-![Screenshots TBA](../../images/ComingSoon.png)
+![Screenshots TBA](../img/previews/ComingSoon.png)

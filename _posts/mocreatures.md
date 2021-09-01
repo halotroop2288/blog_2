@@ -8,13 +8,13 @@
 [Mo' Creatures](https://www.mocreatures.org/) is a mod by Dr. Zhark,
 which has had its source code released under an open license recently.
 I am porting it to Fabric Mod Loader while I wait for the original creator of
-[More Creeps and Weirdos](../morecreeps) to respond to me about the licensing of that mod.
+[More Creeps and Weirdos](./morecreeps) to respond to me about the licensing of that mod.
 
 You can download the original mod **[HERE](https://www.curseforge.com/minecraft/mc-mods/mo-creatures/download/2628698)**.
 
 You can view the source code for my fork (when it's released) **[HERE](https://github.com/halotroop2288/Mo-Creatures)**.
 
-You can download my Fabric port of Mo’ Creatures (when it's released) [on the Github releases page](https://github.com/halotroop2288/mo-creatures/releases/latest).
+You can download my Fabric port of Mo’ Creatures (when it's released) [on the GitHub releases page](https://github.com/halotroop2288/mo-creatures/releases/latest).
 Just grab the latest JAR file.
 
 # [Mobs](https://mocreatures.fandom.com/wiki/Category:Mo%27_Creatures)
@@ -25,13 +25,13 @@ from Mo' Creatures 12, minus obsolete ones, like Wolves, Kitties, Turtles, etc.
 Which will eventually have the option of implementing into vanilla mobs with their features/models.
 
 ## Ants
-![Ant](./Ant.png)
+![Ant](../img/previews/Ant.png)
 Ants wander around and look for food to pick up, and then carry it around wherever they go.
 
 (Later, they may bring food back to a nest? Also, they might follow each other around when they've found food?)
 
 ## Birds
-![Generic Bird](./Bird.png)
+![Generic Bird](../img/previews/Bird.png)
 Birds are like parrots, but uh... different-looking?
 They each have their own ambient noise and can be tamed,
 and will give you slow-falling if you have them sit on your head.

@@ -21,7 +21,7 @@ author: "Caroline Joy Bell"
 title: "Caroline's Blog 2.0"
 description: "Blog of a sandbox lover."
 keywords: "blog, tech, minecraft, modder, modding, sandbox, mods, downloads"
-favicon: "/img/favicon.ico"
+favicon: "/img/avatar.png"
 
 ################
 # Header layout #
@@ -39,10 +39,10 @@ background-img: "../img/intro-bg.jpg"
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: False
-loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 999999999
 lines: # You can add HTML Tags in the Text
   - text: "Splash text!"
   - text: "Penis!"
@@ -93,6 +93,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Try Viva Piñata!"
   - text: "Cat! I'm a kitty cat!"
   - text: "We're no strangers to love!"
+  - text: "100% vegan!"
 
 me-img: "https://github.com/halotroop2288.png?size=500"
 
@@ -123,9 +124,9 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 100
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: False

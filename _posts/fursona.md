@@ -52,12 +52,10 @@ any given scenario.
 ## Self-Realization
 
 Slowly, over the years, I grew as a person.
-I learned about trans people, and broke out of my shell.
-I admitted to myself that I was trans.
-I was always cautious about it, and still am to this day. Because I know that there are
-hateful people in the world, and some of them are in my own family.
-My fursona, at this point was an idealized version of myself,
-and continues to be to this day.
+I learned about trans people, and broke out of my shell. I admitted to myself that I was trans.
+I was always cautious about it, and still am to this day.
+Because I know that there are hateful people in the world, and some of them are in my own family.
+My fursona, at this point was an idealized version of myself, and continues to be to this day.
 
 ## The character designer
 Up to this point, I still did not have a concrete representation of my fursona.
@@ -69,7 +67,7 @@ Enter: Zaezar, the profession character designer, and furry artist.
 I discovered Zaezar on YouTube, where he had a series of tutorials about drawing anthros.
 I followed him on Twitch for some time, and became a regular member of his community.
 
-One day, I came into a larger-than-usual amount of money and decided (regretably) to commision
+One day, I came into a larger-than-usual amount of money and decided (regrettably) to commission
 him with it. (The reason for the regret is not because of the quality of the work, but
 because I should not have spent that money. It was for food that month, as I later found out.)
 
@@ -79,10 +77,12 @@ decide which features were good to keep, what should be added to make it more in
 and which ones should be changed, to look nicer.
 
 In the end, he came up with this, and I love it:
-![Caroline's reference sheet by Zaezar](../art-gallery/RefSheetByZaezar.png)
+![Caroline's reference sheet by Zaezar](../img/art/RefSheetByZaezar.png)
 I haven't been active in his community for a while, but I still love his art.
 
-## Check out the [art gallery](../art-gallery)!
+## Check out the [art gallery](./art-gallery)!
 
 After this, I commissioned more art of Caroline whenever I had the money. And you can see
 more examples of them in the [art gallery](../art-gallery) section of this website!
+
+[fursona]:(./fursona)

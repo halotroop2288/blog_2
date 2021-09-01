@@ -20,6 +20,7 @@ Check out the source code **[HERE](https://github.com/halotroop2288/ex-features-
 **You'll need to use [Fabric Mod Loader](https://www.fabricmc.net/use/) and
 [Fabric API](https://minecraft.curseforge.com/projects/fabric/files) to make it work.**
 
-![Ex-Features Title Screen](../../images/ExFeatures.png)
+![Ex-Features Title Screen](../img/previews/ExFeatures.png)
 
-![Ex-features paintings](../../images/ExFeaturesPaintings.png)
+![Ex-features paintings](../img/previews/Peintings.png)
+These paintings are now in a version-independent Fabric mod called [Peintings](https://www.curseforge.com/minecraft/mc-mods/peintings).
