@@ -27,10 +27,10 @@ favicon: "/img/avatar.png"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/author.png"
 logo: "/img/author.png" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/previews/ExFeatures.png"
 
 ##############################
 # Dynamic Text on the Header #
